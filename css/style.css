@@ -913,16 +913,17 @@ footer {
 
 @media screen and (max-width: 404px){
     
-.box .img {
-    width: 100%;
-}
+    .box .img {
+        width: 100%;
+        height: auto;
+    }
     .comunidad{
         height: 235vh;
         display: flex;
         justify-content: center;
     }
     .box .text{
-        height: 255px;
+        height: 343px;
         width: 80%;
     }
 }
