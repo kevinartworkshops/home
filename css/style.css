@@ -905,7 +905,10 @@ footer {
         text-align: center;
     }
 
-
+   
+    .box .img {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 404px){
